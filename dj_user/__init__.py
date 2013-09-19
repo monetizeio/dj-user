@@ -3,7 +3,7 @@
 # Inc. and contributors and released under the terms of the GNU Lesser General
 # Public License, version 3 or later. See AUTHORS and LICENSE for more details.
 
-VERSION = (0,1,0, 'final', 0)
+VERSION = (0,1,1, 'alpha', 0)
 
 def get_version():
     version = '%s.%s' % (VERSION[0], VERSION[1])
